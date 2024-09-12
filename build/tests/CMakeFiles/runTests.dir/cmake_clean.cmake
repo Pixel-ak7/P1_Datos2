@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/runTests.dir/__/MPointerGC.cpp.o"
   "CMakeFiles/runTests.dir/__/MPointerGC.cpp.o.d"
+  "CMakeFiles/runTests.dir/test_lista.cpp.o"
+  "CMakeFiles/runTests.dir/test_lista.cpp.o.d"
   "CMakeFiles/runTests.dir/test_mpointer.cpp.o"
   "CMakeFiles/runTests.dir/test_mpointer.cpp.o.d"
   "runTests"

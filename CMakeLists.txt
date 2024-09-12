@@ -5,11 +5,11 @@ project(MPointerProject)
 # Establecer la versión de C++
 set(CMAKE_CXX_STANDARD 17)
 
-# Agregar el directorio que contiene MPointer.h (el directorio raíz)
+# Agregar el directorio que contiene MPointer.h 
 include_directories(${CMAKE_SOURCE_DIR})
 
 # Agregar el ejecutable principal
-add_executable(main main.cpp MPointerGC.cpp)
+add_executable(main main.cpp MPointerGC.cpp ListaDoble.h Nodo.h sorting.h)
 
 # Agregar GoogleTest
 enable_testing()

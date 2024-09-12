@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/pixel/Escritorio/Poyecto/MPointerGC.cpp" "tests/CMakeFiles/runTests.dir/__/MPointerGC.cpp.o" "gcc" "tests/CMakeFiles/runTests.dir/__/MPointerGC.cpp.o.d"
+  "/home/pixel/Escritorio/Poyecto/tests/test_lista.cpp" "tests/CMakeFiles/runTests.dir/test_lista.cpp.o" "gcc" "tests/CMakeFiles/runTests.dir/test_lista.cpp.o.d"
   "/home/pixel/Escritorio/Poyecto/tests/test_mpointer.cpp" "tests/CMakeFiles/runTests.dir/test_mpointer.cpp.o" "gcc" "tests/CMakeFiles/runTests.dir/test_mpointer.cpp.o.d"
   )
 

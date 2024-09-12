@@ -164,6 +164,30 @@ __/MPointerGC.cpp.s:
 	cd /home/pixel/Escritorio/Poyecto/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/runTests.dir/build.make tests/CMakeFiles/runTests.dir/__/MPointerGC.cpp.s
 .PHONY : __/MPointerGC.cpp.s
 
+test_lista.o: test_lista.cpp.o
+.PHONY : test_lista.o
+
+# target to build an object file
+test_lista.cpp.o:
+	cd /home/pixel/Escritorio/Poyecto/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/runTests.dir/build.make tests/CMakeFiles/runTests.dir/test_lista.cpp.o
+.PHONY : test_lista.cpp.o
+
+test_lista.i: test_lista.cpp.i
+.PHONY : test_lista.i
+
+# target to preprocess a source file
+test_lista.cpp.i:
+	cd /home/pixel/Escritorio/Poyecto/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/runTests.dir/build.make tests/CMakeFiles/runTests.dir/test_lista.cpp.i
+.PHONY : test_lista.cpp.i
+
+test_lista.s: test_lista.cpp.s
+.PHONY : test_lista.s
+
+# target to generate assembly for a file
+test_lista.cpp.s:
+	cd /home/pixel/Escritorio/Poyecto/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/runTests.dir/build.make tests/CMakeFiles/runTests.dir/test_lista.cpp.s
+.PHONY : test_lista.cpp.s
+
 test_mpointer.o: test_mpointer.cpp.o
 .PHONY : test_mpointer.o
 
@@ -201,6 +225,9 @@ help:
 	@echo "... __/MPointerGC.o"
 	@echo "... __/MPointerGC.i"
 	@echo "... __/MPointerGC.s"
+	@echo "... test_lista.o"
+	@echo "... test_lista.i"
+	@echo "... test_lista.s"
 	@echo "... test_mpointer.o"
 	@echo "... test_mpointer.i"
 	@echo "... test_mpointer.s"

@@ -19,6 +19,12 @@
 },
 {
   "directory": "/home/pixel/Escritorio/Poyecto/build/tests",
+  "command": "/usr/bin/g++  -I/home/pixel/Escritorio/Poyecto -g -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/test_lista.cpp.o -c /home/pixel/Escritorio/Poyecto/tests/test_lista.cpp",
+  "file": "/home/pixel/Escritorio/Poyecto/tests/test_lista.cpp",
+  "output": "tests/CMakeFiles/runTests.dir/test_lista.cpp.o"
+},
+{
+  "directory": "/home/pixel/Escritorio/Poyecto/build/tests",
   "command": "/usr/bin/g++  -I/home/pixel/Escritorio/Poyecto -g -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/__/MPointerGC.cpp.o -c /home/pixel/Escritorio/Poyecto/MPointerGC.cpp",
   "file": "/home/pixel/Escritorio/Poyecto/MPointerGC.cpp",
   "output": "tests/CMakeFiles/runTests.dir/__/MPointerGC.cpp.o"
