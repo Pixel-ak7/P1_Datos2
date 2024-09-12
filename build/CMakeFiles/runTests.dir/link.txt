@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/runTests.dir/tests/test_mpointer.cpp.o CMakeFiles/runTests.dir/MPointerGC.cpp.o -o runTests  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

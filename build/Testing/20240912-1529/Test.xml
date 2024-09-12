@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240912-1529-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="pixel-VirtualBox"
+	OSRelease="6.8.0-44-generic"
+	OSVersion="#44-Ubuntu SMP PREEMPT_DYNAMIC Tue Aug 13 13:35:26 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="33"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="3"
+	NumberOfPhysicalCPU="3"
+	TotalVirtualMemory="3818"
+	TotalPhysicalMemory="3819"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3393.66"
+	>
+	<Testing>
+		<StartDateTime>Sep 12 10:07 CST</StartDateTime>
+		<StartTestTime>1726157252</StartTestTime>
+		<TestList>
+			<Test>./runTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>runTests</Name>
+			<Path>.</Path>
+			<FullName>./runTests</FullName>
+			<FullCommandLine>/home/pixel/Escritorio/Poyecto/build/tests/runTests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00541396</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/pixel/Escritorio/Poyecto/build/tests/runTests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJy1U01PwzAMvfdX+AiHVd00aRMSBwRoB2CgaXCZekgbtw1K4yofY/v3pO0o2yQooOFDpPq9PPu58eqyixgWTimhchiDRWMNZJpKGDYfYJywGAarQRcxzCQlTLY4qrXQpEpUnot24Koj8oHowxMJZVEvfSpYweJ5Dk3EB0h4ZYzI1QuTDoMPADTmwljNOIWwJOsb4AiVqzEyFzD8ZKIUpVBfESNfuI3Hu28Kw1kEpTnv7XKX+UufPczRTx2d0PqHTq/5GdMJy/GapMTU0m/8375i6ixTnGCnAp1MGIbBvUhQN7AkA74rJ/zrQrMnsscpsSQt2F4R73MzybJ0Mp6mnE+jU0zn2G7/gG78oV3NbR77PzzjvjnOCQq27a5A5duWzdxq2K/pshA+y7QFysAW2G40OVs5C2/M+F5LWiP3/0ClCMJv+yZF5KYlFxpNQZLXt4fRaAzJ1guEcfAOzaZ51g==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 12 10:07 CST</EndDateTime>
+		<EndTestTime>1726157252</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

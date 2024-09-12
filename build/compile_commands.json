@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/pixel/Escritorio/Poyecto/build",
+  "command": "/usr/bin/g++  -I/home/pixel/Escritorio/Poyecto -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/pixel/Escritorio/Poyecto/main.cpp",
+  "file": "/home/pixel/Escritorio/Poyecto/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/pixel/Escritorio/Poyecto/build",
+  "command": "/usr/bin/g++  -I/home/pixel/Escritorio/Poyecto -g -std=gnu++17 -o CMakeFiles/main.dir/MPointerGC.cpp.o -c /home/pixel/Escritorio/Poyecto/MPointerGC.cpp",
+  "file": "/home/pixel/Escritorio/Poyecto/MPointerGC.cpp",
+  "output": "CMakeFiles/main.dir/MPointerGC.cpp.o"
+},
+{
+  "directory": "/home/pixel/Escritorio/Poyecto/build/tests",
+  "command": "/usr/bin/g++  -I/home/pixel/Escritorio/Poyecto -g -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/test_mpointer.cpp.o -c /home/pixel/Escritorio/Poyecto/tests/test_mpointer.cpp",
+  "file": "/home/pixel/Escritorio/Poyecto/tests/test_mpointer.cpp",
+  "output": "tests/CMakeFiles/runTests.dir/test_mpointer.cpp.o"
+},
+{
+  "directory": "/home/pixel/Escritorio/Poyecto/build/tests",
+  "command": "/usr/bin/g++  -I/home/pixel/Escritorio/Poyecto -g -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/__/MPointerGC.cpp.o -c /home/pixel/Escritorio/Poyecto/MPointerGC.cpp",
+  "file": "/home/pixel/Escritorio/Poyecto/MPointerGC.cpp",
+  "output": "tests/CMakeFiles/runTests.dir/__/MPointerGC.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+/home/pixel/Escritorio/Poyecto/build/CMakeFiles/main.dir
+/home/pixel/Escritorio/Poyecto/build/CMakeFiles/test.dir
+/home/pixel/Escritorio/Poyecto/build/CMakeFiles/edit_cache.dir
+/home/pixel/Escritorio/Poyecto/build/CMakeFiles/rebuild_cache.dir
+/home/pixel/Escritorio/Poyecto/build/tests/CMakeFiles/runTests.dir
+/home/pixel/Escritorio/Poyecto/build/tests/CMakeFiles/test.dir
+/home/pixel/Escritorio/Poyecto/build/tests/CMakeFiles/edit_cache.dir
+/home/pixel/Escritorio/Poyecto/build/tests/CMakeFiles/rebuild_cache.dir
